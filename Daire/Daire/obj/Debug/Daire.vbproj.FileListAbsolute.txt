@@ -1,0 +1,10 @@
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\bin\Debug\Daire.exe.config
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\bin\Debug\Daire.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\bin\Debug\Daire.pdb
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\bin\Debug\Daire.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\obj\Debug\Daire.Form1.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\obj\Debug\Daire.Resources.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\obj\Debug\Daire.vbproj.GenerateResource.Cache
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\obj\Debug\Daire.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\obj\Debug\Daire.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Daire\Daire\obj\Debug\Daire.pdb
